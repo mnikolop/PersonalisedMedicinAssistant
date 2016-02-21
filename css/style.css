@@ -1,0 +1,31 @@
+/* general styling */
+body{
+	background-repeat: no-repeat;
+    padding-bottom: 30px;
+}
+
+.page-header {
+    border-bottom: 1px solid #400000;
+    padding-left: 3%
+}
+h3 {
+    text-decoration: underline;
+}
+
+h3 small {
+    text-decoration: none;
+}
+
+#footer {
+	background-color: rgb(42, 39, 48);
+box-sizing: border-box;
+color: rgb(153, 151, 156);
+display: block;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 14px;
+line-height: 20px;
+margin-top: 100px;
+padding-bottom: 50px;
+padding-top: 50px;
+text-align: left
+}

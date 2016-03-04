@@ -16,7 +16,7 @@
 		 <div class="container"> 
 		 	<ul class="bs-docs-footer-links"> 
 		 		<li>
-		 			<a href="https://github.com/twbs/bootstrap">GitHub</a>
+		 			<a href="https://github.com/mnikolop/PersonalisedMedicinAssistant">GitHub</a>
 		 		</li> 
 		 	</ul> 
 		 	<p>Designed and built by team Super Awosome!! For the User Needs and Requirements Engineering course.</p> </div> 

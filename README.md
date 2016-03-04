@@ -1,8 +1,11 @@
 # PersonalisedMedicinAssistant
 
-Project for User Needs and Requirements Engineering course
+Project for User Needs and Requirements Engineering course.
+
 Health Informatics Master Program 
+
 Karolinska Insititutet
+
 Group Members
   Amel Al-Murrani
   Andrea Hagenfeldt
